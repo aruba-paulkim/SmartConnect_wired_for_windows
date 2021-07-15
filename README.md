@@ -1,12 +1,12 @@
 # SmartConnect_wired_for_windows
 
 ### Description
-To use wired 802.1x authentication in Windows, you must add a profile.
+To use wired 802.1x authentication in Windows, you must add a profile.<br>
 (in the past, I used to use quickconnect. but now, quickconnect is EoS)
 
 Customers want to add profile for wired authentication easily.
 
-So I created windows batch file for adding wired profile
+So I created windows batch file for adding wired profile<br>
 Just double-click SmartConnect_wired_for_windows.bat to add wired profile for Windows
 
 ### Scenarios
