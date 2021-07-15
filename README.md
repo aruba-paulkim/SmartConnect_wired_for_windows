@@ -9,8 +9,6 @@ Customers want to add profile for wired authentication easily.
 So I created windows batch file for adding wired profile
 Just double-click SmartConnect_wired_for_windows.bat to add wired profile for Windows
 
-If you have suggestion, please let [mailto:aruba-kr-se@hpe.com '''ARUBA KR SE'''] team or [mailto:paul.kim@hpe.com '''Paul Kim'''] know.
-
 ### Scenarios
 
 1. Requesting administrative privileges<br>
