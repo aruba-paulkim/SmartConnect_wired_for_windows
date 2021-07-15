@@ -38,7 +38,7 @@ To export your profile, use the following command:
 <pre>netsh lan show profiles
 netsh lan export profile interface="Ethernet1" folder=.
 </pre>
-![](images/sSmartConnect_Wired_for_Windows1.png)
+![](images/SmartConnect_Wired_for_Windows1.png)
 
 3. change your profile file name to Ethernet.xml
 
@@ -46,7 +46,7 @@ netsh lan export profile interface="Ethernet1" folder=.
 
 5. run or double-click SmartConnect_wired_for_windows.bat file
 
-![](images/sSmartConnect_Wired_for_Windows2.png)
+![](images/SmartConnect_Wired_for_Windows2.png)
 
 6. check result
 
